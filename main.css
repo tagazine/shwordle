@@ -1,0 +1,19 @@
+.position {
+    width: 28%;
+    margin: auto;
+}
+.square {
+    background-color:whitesmoke;
+    height: 60px;
+    width: 60px;
+    border: 5px solid black;
+    display: inline-block;
+   
+}
+#sides {
+    margin-left: 148px;
+}
+.title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
