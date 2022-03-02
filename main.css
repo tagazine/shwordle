@@ -1,9 +1,10 @@
 .position {
     width: 35%;
     margin: auto;
+    padding-left: 5.5em;
 }
 .square {
-    background-color:whitesmoke;
+    background-color: smoke;
     height: 60px;
     width: 60px;
     border: 5px solid black;
